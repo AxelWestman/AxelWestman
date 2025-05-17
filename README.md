@@ -18,6 +18,8 @@ Recibido bajo el título de "Técnico Universitario en Informática aplicada al 
 
 __Check out my GitHub repository:__
 
+## 🚀 Habilidades  
+
 <!-- <div>
   <p>
     <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
