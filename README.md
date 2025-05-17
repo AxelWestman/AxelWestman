@@ -1,11 +1,12 @@
-# Hi there 👋, Axel Westman here. 
+# Hola 👋, soy Axel Westman . 
 
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## 👨‍💻<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
+Recibido bajo el título de "Técnico Universitario en Informática aplicada al Diseño Multimedia y de Sitios Web" en la Universidad Nacional del Litoral, soy un programador Front-end Jr con conocimientos en Back-end, y con ganas de seguir aprendiendo para convertirme en Full-stack.
 I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
