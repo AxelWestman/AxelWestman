@@ -4,10 +4,9 @@
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 👨‍💻<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## 👨‍💻 Sobre mi
 
-Recibido bajo el título de "Técnico Universitario en Informática aplicada al Diseño Multimedia y de Sitios Web" en la Universidad Nacional del Litoral, soy un programador Front-end Jr con conocimientos en Back-end, y con ganas de seguir aprendiendo para convertirme en Full-stack.
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+Recibido bajo el título de "Técnico Universitario en Informática aplicada al Diseño Multimedia y de Sitios Web" en la Universidad Nacional del Litoral (Argentina), soy un programador Front-end Jr con conocimientos en Back-end, y con ganas de seguir aprendiendo para convertirme en Full-stack.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
@@ -19,7 +18,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 __Check out my GitHub repository:__
 
-<div>
+<!-- <div>
   <p>
     <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
@@ -39,7 +38,7 @@ __Check out my GitHub repository:__
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
-  <p align="center">
+  <!-- <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
   
