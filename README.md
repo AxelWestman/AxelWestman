@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mi
 
-Recibido bajo el título de "Técnico Universitario en Informática aplicada al Diseño Multimedia y de Sitios Web" en la Universidad Nacional del Litoral (Argentina), soy un programador Front-end Jr con conocimientos en Back-end, y con ganas de seguir aprendiendo para convertirme en Full-stack.
+Recibido bajo el título de "Técnico Universitario en Informática aplicada al Diseño Multimedia y de Sitios Web" en la Universidad Nacional del Litoral (Argentina), soy un programador Full-stack Jr.
 
 ## 🚀 Habilidades  
 ![My Skills](https://skillicons.dev/icons?i=,html,css,tailwind,js,typescript,angular,react,nodejs,express,mysql,git,figma)
